@@ -1,0 +1,6 @@
+.cards {
+  display: flex;
+  gap: 25px;
+  padding: 20px 0;
+  overflow-x: scroll;
+}

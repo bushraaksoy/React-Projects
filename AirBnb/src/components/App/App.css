@@ -1,0 +1,6 @@
+.App {
+  width: 650px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 30px #757575;
+}

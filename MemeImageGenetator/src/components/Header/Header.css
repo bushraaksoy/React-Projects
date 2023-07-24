@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-txt {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.logo-container > img {
+  width: 50px;
+}
+
+header > h3 {
+  font-weight: 400;
+  font-size: 0.75rem;
+}

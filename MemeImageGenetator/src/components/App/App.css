@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap");
+
+.App {
+  width: 550px;
+  background-color: #fff;
+  box-shadow: 0 0 30px #a8a8a8;
+  font-family: "Karla", sans-serif;
+  display: flex;
+  flex-direction: column;
+}

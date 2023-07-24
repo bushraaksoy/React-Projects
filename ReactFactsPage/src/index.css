@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("./images/logo512.png");
+  background-size: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: "Inter", sans-serif;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.nav-logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-name {
+  font-weight: 700;
+  color: #61dafb;
+}
+
+.nav-link {
+  color: #deebf8 !important;
+}
+
+.navbar {
+  box-shadow: 0 0 8px #000;
+  background-color: #21222a !important;
+}
+
+.logo {
+  width: 60px;
+}
+
+.main--li > li {
+  line-height: 19px;
+  padding-block: 10px;
+}
+
+.main--li > li::marker {
+  color: #61dafb;
+  font-size: 1.4em;
+}
+
+footer {
+  padding: 8px 20px;
+  background-color: rgb(196, 196, 196);
+}

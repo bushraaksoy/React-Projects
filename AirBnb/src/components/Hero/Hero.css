@@ -1,0 +1,11 @@
+.hero-grid {
+  margin-left: 40px;
+  width: 500px;
+}
+
+.online-experiences {
+  max-width: 390px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0;
+}
