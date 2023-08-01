@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@admin.com",
+      "phone": "9834723874",
+      "role": "admin"
+    },
+    {
+      "name": "Bushra",
+      "email": "bbxsra17@gmail.com",
+      "phone": "0768426163",
+      "role": "staff",
+      "id": 2
+    },
+    {
+      "name": "Bushra",
+      "email": "bbxsra17@gmail.com",
+      "phone": "+77052329146",
+      "role": "staff",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "ahlaam",
+      "email": "ahlaamfaiz@gmail.com",
+      "phone": "0934832947",
+      "role": "staff"
+    },
+    {
+      "name": "Rabia",
+      "email": "rabia@gmail.com",
+      "phone": "0768426163",
+      "role": "staff",
+      "id": 8
+    },
+    {
+      "name": "Bushra the third",
+      "email": "whatever@gmail.com",
+      "phone": "0768426163",
+      "role": "admin",
+      "id": 9
+    }
+  ]
+}
