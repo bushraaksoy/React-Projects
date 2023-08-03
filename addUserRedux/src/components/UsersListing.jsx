@@ -14,8 +14,8 @@ const UsersListing = (props) => {
     if (window.confirm('Do you want to delete this user?')) {
       props.removeUser(id);
       props.loadUser();
-      toast.success('User deleted successfully', {position: 'bottom-right', autoClose: 2000})
-    } 
+      toast.success('User deleted successfully')
+    }
   }
 
   return (
